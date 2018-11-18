@@ -39,7 +39,7 @@ Route::any('foo', function () {
 ---
 CSRF Blade Snippet
 
-```
+```blade
 @csrf
 ```
 ---
